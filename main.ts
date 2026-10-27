@@ -1,0 +1,5 @@
+basic.showString("Hallo")
+basic.pause(100)
+basic.showString("Kennst du meine Lieblingsfarbe?")
+basic.setLedColor(0xff0000)
+basic.showIcon(IconNames.Heart)
